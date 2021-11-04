@@ -8,9 +8,9 @@
         echo $i."<br>";
     }
 #exo 6
-    $n=0;
+    $n='';
     for($i=1; $i<26;$i++){
-        $n=$n.$i;        
+        $n=$n.$i.PHP_EOL;        
         echo $n."<br>";
         }
               
