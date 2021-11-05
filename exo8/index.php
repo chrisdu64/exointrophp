@@ -20,3 +20,10 @@ function EstPair($nombre){
     return;    
 }
 echo EstPair(623);
+
+function estPasImpair($number){
+    if($number%2){
+        return true;
+    }
+    return false;
+}

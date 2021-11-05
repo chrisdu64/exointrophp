@@ -1,6 +1,6 @@
 <?php
 
-    $alpha=35;
+    $alpha=20;
     $x=cos($alpha);
     $y=sin($alpha);
     
